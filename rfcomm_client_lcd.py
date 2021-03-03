@@ -3,7 +3,7 @@
 import bluetooth
 import time
 
-bd_addr = "DC:A6:32:D4:DE:E0"
+bd_addr = "B8:27:EB:B4:7F:45"
 
 port = 1
 

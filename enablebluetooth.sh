@@ -1,3 +1,3 @@
 #!/bin/sh
 rfkill unblock bluetooth
-echo "pairable on\ndiscoverable on\nexit\n" | bluetoothctl
+echo "power on\npairable on\ndiscoverable on\nexit\n" | bluetoothctl
